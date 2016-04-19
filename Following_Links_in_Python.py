@@ -2,6 +2,7 @@ import urllib
 from BeautifulSoup import *
 import re
 '''
+
 Following Links in Python
 
 In this assignment you will write a Python program that expands on http://www.pythonlearn.com/code/urllinks.py. 
